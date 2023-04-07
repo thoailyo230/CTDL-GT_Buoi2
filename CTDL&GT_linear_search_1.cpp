@@ -1,4 +1,4 @@
-//cài đặt thuật toán tìm kiếm tuyến tính, link tham khảo: https://gochocit.com/ky-thuat-lap-trinh/thuat-toan-tim-kiem-tuyen-tinh-linear-search
+//cài đặt thuật toán tìm kiếm tuyến tính
 int LinearSearch(int a[], int n, int x)
 {
 	int i=0;
