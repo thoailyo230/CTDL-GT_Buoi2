@@ -1,4 +1,4 @@
-//ví dụ phương pháp chọn trực tiếp
+//ví dụ phương pháp chọn trực tiếp,link tham khảo: https://gochocit.com/ky-thuat-lap-trinh/thuat-toan-sap-xep-chon-truc-tiep-selection-sort
 #include <stdio.h>
 void Nhap(int a[],int n){//ham nhap mang
     for(int i=0; i<n; i++){
