@@ -1,4 +1,4 @@
-//cài đặt đệ quy đuôi
+//cài đặt đệ quy đuôi, link tham khảo: https://freetuts.net/de-quy-duoi-tail-recursion-2951.html
   int r;
   if(m<n) return UCLN(n,m);
   r = m % n;
