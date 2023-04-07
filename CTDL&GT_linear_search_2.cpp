@@ -1,4 +1,4 @@
-Ví dụ tìm kiếm tuyến tính
+//Ví dụ tìm kiếm tuyến tính
 #include <stdio.h>
 void Nhap(int a[],int n){
     for(int i=0; i<n; i++){
