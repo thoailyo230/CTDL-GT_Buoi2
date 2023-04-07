@@ -1,4 +1,4 @@
-//cài đặt sắp xếp chọn, link tham khảo: https://sinhvientot.net/thuat-toan-sap-xep-chon-truc-tiep-selection-sort/
+//cài đặt sắp xếp chọn, link tham khảo: https://gochocit.com/ky-thuat-lap-trinh/thuat-toan-sap-xep-chon-truc-tiep-selection-sort
 
 void Sapxep(int a[], int n)
 {
