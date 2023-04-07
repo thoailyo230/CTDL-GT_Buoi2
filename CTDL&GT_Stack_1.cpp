@@ -1,4 +1,4 @@
-//cài đặt ngăn xếp
+//cài đặt ngăn xếp,link tham khảo :https://cachhoc.net/2014/12/29/lap-trinh-c-bai-15-cai-dat-ngan-xep-stack/ 
 
 
 //kiểm tra stack đầy (IsFull)
