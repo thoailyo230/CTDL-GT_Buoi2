@@ -1,4 +1,4 @@
-//Ví dụ tìm kiếm nhị phân
+//Ví dụ tìm kiếm nhị phân, link tham khảo: https://laptrinhtudau.com/tim-kiem-nhi-phan-binary-search-trong-c/
 #include <stdio.h>
 #include<conio.h>
 #include<math.h>
